@@ -20,7 +20,7 @@ weight: 1
 
 **2.0**: In order to reflect and respect developments on applicable law and on the website itself, this document will be updated periodically.
 
-## User Responsibilities
+## Regarding This Document
 
 **3.0**: The Terms of Service provided by us, together with any additional documents and/or terms they actively adopt through referencing, collectively constitute the legal document this page serves to provide, and is entered into by and between Lemmy.World and all its users (you).
 
